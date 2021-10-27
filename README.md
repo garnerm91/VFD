@@ -13,3 +13,9 @@ The goal of this project to make footprints and working examples of existing VFD
 
 # Screens
 Right now the only screen supported is Futaba BL-141G. I do have access to more of them and will add support over time.
+
+BL-141G Front
+![BL-141G front](pictures/front.jpg)
+
+BL-141G Back
+![BL-141G back](pictures/back.jpg)
