@@ -21,4 +21,4 @@ BL-141G Back
 ![BL-141G back](pictures/back.jpg)
 
 # Kicad Files
- bl-141g.lib is the symbol and BL-141G.kicad.mod is the footprint.
+ bl-141g.lib is the symbol and BL-141G.kicad_mod is the footprint.
