@@ -27,4 +27,4 @@ BL-141G Back
 ![BL-141G back](pictures/symbol.PNG)
 
 # Housing & 3D Printing
-The housing is open air to show off the PCB. It also helps with cooling the resistors for the VFD filiment. I will try to keep the board footprint the same in future projects with VFDs so that way this same housing can be used on it. I 3d printed it 20% infil and supports with PETG. [Housing](housing.stl)
+The housing is open air to show off the PCB. It also helps with cooling the resistors for the VFD filiment. I will try to keep the board footprint the same in future projects with VFDs so that way this same housing can be used on it. I 3d printed it 20% infill and supports with PETG. [Housing](housing.stl)
