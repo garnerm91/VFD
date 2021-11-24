@@ -6,7 +6,8 @@ My PCB are from [JLCPCB](https://jlcpcb.com/IAT), new users have $30 coupons [he
 Board files and footprint will be added once the circuit board is fixed.  ETA 10/30/21 I will have a follow up video once that is done.
 Design work was done in Kicad
 
-Video: https://youtu.be/h8Us6riXLtg
+Video 1: https://youtu.be/h8Us6riXLtg
+Video 2: https://youtu.be/K12hVGqjaFM
 
 # Goal
 The goal of this project to make footprints and working examples of existing VFDs that are "out in the wild". Unfortunately Futaba would not providde datasheets. This project guide contains the files necessary to help you step by step produce your own PCB using the screens
@@ -24,3 +25,6 @@ BL-141G Back
  bl-141g.lib is the symbol and BL-141G.kicad_mod is the footprint.
 
 ![BL-141G back](pictures/symbol.PNG)
+
+# Housing & 3D Printing
+The housing is open air to show off the PCB. It also helps with cooling the resistors for the VFD filiment. I will try to keep the board footprint the same in future projects with VFDs so that way this same housing can be used on it. I 3d printed it 20% infil and supports with PETG. [Housing](housing.stl)
