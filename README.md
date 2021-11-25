@@ -3,7 +3,8 @@ This is an Arduino-based project using Futaba vacuum fluorescent displays.  In t
 
 My PCB are from [JLCPCB](https://jlcpcb.com/IAT), new users have $30 coupons [here](https://jlcpcb.com/IAT)
 
-Board files and footprint will be added once the circuit board is fixed.  ETA 10/30/21 I will have a follow up video once that is done.
+![BL-141G Completed](pictures/bl_141_done.jpg)
+
 Design work was done in Kicad
 
 Video 1: https://youtu.be/h8Us6riXLtg
