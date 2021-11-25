@@ -29,3 +29,6 @@ BL-141G Back
 
 # Housing & 3D Printing
 The housing is open air to show off the PCB. It also helps with cooling the resistors for the VFD filiment. I will try to keep the board footprint the same in future projects with VFDs so that way this same housing can be used on it. I 3d printed it 20% infill and supports with PETG. [Housing](housing.stl) The housing itself is designed to hold business cards so that way it is a functional work of desk art.
+
+# Assembly
+This smallest compents are 0603 so this is achiveable at home with any decent soldering iron. The XTAL is going to need hot air or hotplate. If you are salvaging the screen yourself off a GM Truck CLuster you can also salvage the 510 ohm resistors off the board at the same time if building the BL-141G. I personally prefer to use solderpaste and hot air for all the SMT components myself.
