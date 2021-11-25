@@ -14,7 +14,7 @@ Video 2: https://youtu.be/K12hVGqjaFM
 The goal of this project to make footprints and working examples of existing VFDs that are "out in the wild". Unfortunately Futaba would not providde datasheets. This project guide contains the files necessary to help you step by step produce your own PCB using the screens
 
 # Screens
-Right now the only screen supported is Futaba BL-141G. I do have access to more of them and will add support over time.
+Right now the only screen supported is Futaba BL-141G. I do have access to more of them and will add support over time. The goal is to do the BL-186GIN next. It is found in 07-14 GM truck cluster.
 
 BL-141G Front
 ![BL-141G front](pictures/front.jpg)
