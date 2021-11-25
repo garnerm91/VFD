@@ -34,3 +34,4 @@ The housing is open air to show off the PCB. It also helps with cooling the resi
 This smallest compents are 0603 so this is achiveable at home with any decent soldering iron. The XTAL is going to need hot air or hotplate. If you are salvaging the screen yourself off a GM Truck CLuster you can also salvage the 510 ohm resistors off the board at the same time if building the BL-141G. I personally prefer to use solderpaste and hot air for all the SMT components myself.
 
 As for programming you can use an arduino as ISP using the header provided above the Microcontroller. I personally prefer to use a TL866 to program them. Attached Below is a screenshot of the Fuse setting for the ATmega328 
+![Minipro](pictures/Minipro.PNG)
